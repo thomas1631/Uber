@@ -73,7 +73,7 @@ In collaboration with the Business Operations team, a comprehensive analysis was
 
 <img width="372" height="292" alt="image" src="https://github.com/user-attachments/assets/c89ea9c1-d6b7-437b-b8b0-a170419666df" />
 
-<img width="422" height="326" alt="image" src="https://github.com/user-attachments/assets/ea32c18e-c456-446c-bcde-0b1d3932f862" />
+<img width="372" height="324" alt="image" src="https://github.com/user-attachments/assets/ea32c18e-c456-446c-bcde-0b1d3932f862" />
 
 <ul><li>Cary, Morrisville, and Unknown are the most frequent start/stop cities.</li></ul>
 
