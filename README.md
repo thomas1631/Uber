@@ -81,6 +81,12 @@ In collaboration with the Business Operations team, a comprehensive analysis was
 
 **5. Missing Location Data**
 
-<ul><li>Certain periods like September show up to 69.4% missing start location data.</li></ul>
+<img width="494" height="250" alt="Screenshot 2025-11-07 100904" src="https://github.com/user-attachments/assets/b339c7d1-f317-4128-bd03-6f47b7e47f7b" />
 
-<ul><li>Critical for data quality monitoring as it may affect route planning, analytics, and user tracking.</li></ul>
+<img width="888" height="370" alt="Screenshot 2025-11-07 100627" src="https://github.com/user-attachments/assets/351f6197-f7f2-43ca-b5ab-a07b44cf4000" />
+
+<ul><li>12.81% of rides have an unknown or missing start location.</li></ul>
+
+<ul><li>September alone shows an extreme 87.19% unknown starts, signaling possible technical or data syncing issues.</li></ul>
+
+<ul><li>Consistent location data is vital for route optimization and trust in ETA predictions.</li></ul>
