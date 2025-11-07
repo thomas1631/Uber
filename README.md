@@ -193,3 +193,20 @@ Prioritize coverage in top locations (e.g., Cary, Morrisville), but also investi
 
 <ul><li><strong>Geolocation Mapping Enhancements</strong>  
 Update the location database to better classify frequent “Unknown” areas, possibly using reverse geocoding APIs or location clustering models.</li></ul>
+
+---
+
+## 🔗 Explore the Full Project
+
+You can view the complete project repository, including the original **Jupyter Notebook (.ipynb)** used for data cleaning and exploration, as well as the **Power BI (.pbix)** dashboard file, here:
+
+👉 **GitHub Repository:** [github.com/thomas1631/Uber](https://github.com/thomas1631/Uber)
+
+This repository includes:
+- 🧪 **Python EDA Notebook** (`Uber_Ride_Analysis.ipynb`)
+- 📊 **Power BI Dashboard File** (`Uber_Dashboard.pbix`)
+- 📁 Cleaned dataset (`Cleaned_UberDataset.csv`)
+- 📝 Business insights and visual explanations
+
+Feel free to explore the code, download the files, or fork the repository for your own analysis.
+
